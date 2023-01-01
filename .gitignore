@@ -61,4 +61,6 @@ typings/
 .next
 
 # vim
-*.sp?
+*.sw?
+tags
+*.taghl
